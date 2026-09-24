@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
